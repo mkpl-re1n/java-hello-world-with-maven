@@ -2,6 +2,6 @@ package hello;
 
 public class Greeter {
     public String sayHello() {
-        return "Project Devops";
+        return "Tugas Besar MKPL Membuat Continous Integration";
     }
 }
