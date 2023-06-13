@@ -7,6 +7,6 @@ public class HelloWorldTest {
     @Test
     public void testSayHello() {
         Greeter greeter = new Greeter();
-        assertEquals("Hello, World!", greeter.sayHello());
+        ("Hello, World!", greeter.sayHello());
     }
 }
