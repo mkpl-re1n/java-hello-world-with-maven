@@ -28,7 +28,7 @@
         <repository>
         <id>github</id>
         <name>GitHub Packages</name>
-        <url>https://maven.pkg.github.com/Soviena/java-hello-world-with-maven</url>        
+        <url>https://maven.pkg.github.com/mkpl-re1n/java-hello-world-with-maven</url>        
         </repository>
     </distributionManagement>
     <build>
